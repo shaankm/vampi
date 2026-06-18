@@ -23,7 +23,7 @@ jobs:
           ACTIVE_API_URL: "https://ms-phase3-test.nonamesec.com/active"
           ACTIVE_API_TOKEN: "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlLZXkiOiI0ZGNmNWI1MS1mOGM4LTQ2ZDctYTY4NS1mZThlNWU4NDgzYjQiLCJpZCI6IjhiNzIxNzcyLWEwMGMtNDcyZC1hNWFhLTUxMTRlMWE5YmZjMCIsImlhdCI6MTc4MTc3Njc0OSwiZXhwIjoxNzk3MzI4NzQ5LCJhdWQiOlsibm9uYW1lLW1hbmFnZW1lbnQtYXBpIl0sImlzcyI6Im5vYXV0aCJ9.SXhqKcIPu_yPhth4qCUdLGK8aIopcEnud_NYFww9-dx3MNM1qrF2NJcDi-5VV-C8PSugOaX3i84oKEXazFnLKuX3dHrqpxXFJfuwToMliiU1lzkEe3UjPSKG-vPD-7rRHX5kcXHGCUH4uSjBp75LPxq4uQO9YqTVTmvxncdzKS0MfZ2ulWd0dyMUr8HVW8-chX0W5yoPrGEQqiK-Lhf2MaOVJFoAUvTKrtVKldMvMjvX0UpfAZSLDt-AkSLaGXmtOZWcHrZwjDVi9v5S2j-ItkuS0bJ7EJsVBbAVHnCgipCIS0Ei5-4usRrPDfWNOQQ70qe-inxLccYeSrh23NIsWg"
           ACTIVE_BACKEND_URI: "https://ms-phase3-test.nonamesec.com/active/backend"
-          TEST_GROUP_ID: "0200fdd8-a162-4339-85b6-ba985443b4f0"
+          TEST_GROUP_ID: "6767cf71-754f-4119-85a0-7497931b1198"
           BRANCH_NAME: "${{ github.ref_name }}"
           VERBOSE: "true"
           ANALYZE: "false"
